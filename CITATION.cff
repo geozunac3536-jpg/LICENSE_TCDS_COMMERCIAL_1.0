@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Si usas este repositorio, por favor cita como se indica abajo."
+title: "TCDS-LICENCIAS: Licencias del Proyecto TCDS"
+authors:
+  - family-names: Carrasco Ozuna
+    given-names: Genaro
+    orcid: https://orcid.org/0009-0005-6358-9910
+date-released: 2025-10-25
+version: v1.0
+doi: 10.5281/zenodo.17443586
+license: MIT
+repository-code: https://github.com/geozunac3536-jpg/TCDS-LICENCIAS
