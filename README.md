@@ -10,9 +10,9 @@ Contacto: [geozunac3536@gmail.com](mailto:geozunac3536@gmail.com)
 
 | Tipo | Archivo | Propósito |
 |------|----------|------------|
-| 💼 Comercial | [LICENSE_TCDS_COMMERCIAL_1.0.txt](LICENSE_TCDS_COMMERCIAL_1.0.txt) | Control y explotación comercial exclusiva |
 | 🧩 Abierta (software) | [LICENSE_APACHE_2.0.txt](LICENSE_APACHE_2.0.txt) | Uso técnico y redistribución con atribución |
 | 🎓 Académica (documentación) | [LICENSE_CC-BY-NC-ND_4.0.txt](LICENSE_CC-BY-NC-ND_4.0.txt) | Uso educativo y citacional, sin derivaciones |
+| 💼 Comercial | [LICENSE_TCDS_COMMERCIAL_1.0.txt](LICENSE_TCDS_COMMERCIAL_1.0.txt) | Control y explotación comercial exclusiva |
 
 ---
 
