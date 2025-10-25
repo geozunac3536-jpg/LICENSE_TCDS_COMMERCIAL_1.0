@@ -41,6 +41,14 @@ Contacto: [geozunac3536@gmail.com](mailto:geozunac3536@gmail.com)
 > [TCDS-LICENCIAS](https://github.com/geozunac3536-jpg/TCDS-LICENCIAS).”
 
 ---
+## 📌 Citación y DOI
+
+Esta obra está registrada en Zenodo:  
+**DOI**: [10.5281/zenodo.17443586](https://doi.org/10.5281/zenodo.17443586)  
+**Autor**: Genaro Carrasco Ozuna  
+**ORCID**: [0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
+
+Para citar este repositorio, consulta el archivo `CITATION.cff`.
 
 ## ⚖️ Jurisdicción
 
