@@ -1,3 +1,21 @@
+<p align="center">
+
+  <a href="https://github.com/geozunac3536-jpg/TCDS-LICENCIAS/blob/main/LICENSE_APACHE_2.0.txt">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache 2.0 License">
+  </a>
+
+  <a href="https://github.com/geozunac3536-jpg/TCDS-LICENCIAS/blob/main/LICENSE_CC-BY-NC-ND_4.0.txt">
+    <img src="https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-lightgrey.svg" alt="CC BY-NC-ND 4.0 License">
+  </a>
+
+  <a href="https://github.com/geozunac3536-jpg/TCDS-LICENCIAS/blob/main/LICENSE_TCDS_COMMERCIAL_1.0.txt">
+    <img src="https://img.shields.io/badge/License-TCDS%20Commercial%201.0-darkred.svg" alt="TCDS Commercial License 1.0">
+  </a>
+
+</p>
+
+---
+
 # 📘 Licencias del Proyecto TCDS
 
 Repositorio oficial de licencias asociadas al ecosistema **TCDS (Teoría Cromodinámica Sincrónica)**.  
